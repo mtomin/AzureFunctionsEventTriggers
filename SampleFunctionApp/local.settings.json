@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobs.SampleFunction.Disabled": true,
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "EventHubConnection": "Endpoint=sb://localhost/",
+    "EventHubName": "<EventHubName>"
+  }
+}
