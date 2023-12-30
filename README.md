@@ -1,0 +1,1 @@
+A simple implementation of Azure Functions describing how to trigger an event-driven Azure Function locally via its administrative endpoint. Meant to be as a supporting repository for the article available at <TODO>
